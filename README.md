@@ -26,6 +26,6 @@
 - **[JARVIS-Assistant]**: Sesli komut ve sistem optimizasyonu odaklı kişisel asistan projem.
 
 ### 🌐 İletişim & Sosyal Medya
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/muhammed-sarıkaya-248b2839a)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammed-sar%C4%B1kaya-248b2839a)
 [<img src="https://img.shields.io/badge/picoCTF-white?style=for-the-badge&logo=ctfread&logoColor=red" />](https://play.picoctf.org/users/eqlas)
 
