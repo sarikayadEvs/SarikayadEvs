@@ -13,7 +13,7 @@ Ben Muhammed, geleceğin siber güvenlik dünyasını inşa etmeye odaklanmış 
 
 - 🎓 **Eğitim:** 11. Sınıf | Ağ İşletmenliği ve Siber Güvenlik (ATP)
 - 🎯 **Odak Noktam:** Pentesting, Forensics ve Güvenli Ağ Mimarileri.
-- ⚡ **Misyon:** "Eyleme dönüştürülemeyen bilgi, sadece yükten ibarettir." (JARVIS prensibi 😉)
+- ⚡ **Misyon:** "Eyleme dönüştürülemeyen bilgi, sadece yükten ibarettir."
 - 🛠️ **Güncel:** Gelişmiş otomasyon sistemleri ve siber güvenlik araçları prototipliyorum.
 
 ---
@@ -46,7 +46,7 @@ Ben Muhammed, geleceğin siber güvenlik dünyasını inşa etmeye odaklanmış 
 </a>
 </p>
 
-> 📧 **İş birliği ve Staj Teklifleri için:** [E-posta Adresin Buraya]
+> 📧 **İş birliği ve Staj Teklifleri için:** [muhammedx061970@gmail.com]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SarikayaDevs/SarikayaDevs/main/github-contribution-grid-snake.svg" alt="snake" />
