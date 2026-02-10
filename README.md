@@ -32,7 +32,8 @@ Ben Muhammed, geleceğin siber güvenlik dünyasını inşa etmeye odaklanmış 
 ### 📂 Öne Çıkan Projeler
 * ⚡ **[EHub](https://github.com/SarikayaDevs/EHub)** - Masaüstü oyun entegrasyonu ve kütüphane yönetimi otomasyonu.
 * 🚩 **[CTF-Writeups](https://github.com/SarikayaDevs/CTF-Writeups)** - Yarışmalardaki çözüm metodolojilerim ve teknik analiz raporlarım.
-* 🎙️ **[JARVIS-Assistant](https://github.com/SarikayaDevs/JARVIS-Assistant)** - Sesli komut kontrollü, sistem optimizasyonu odaklı kişisel asistan mimarisi.
+* 🎙️ JARVIS-Assistant – Sesli komut kontrollü, sistem optimizasyonu odaklı kişisel asistan mimarisi. (Not: Aktif geliştirme aşamasındadır, mevcut sürümde stabilite hataları içerebilir.)
+* 🖋️ Fatih-Kalem-Linux-Integration – Windows tabanlı Fatih Kalem uygulamasının Kali Linux ve Pardus sistemlerine sistem seviyesinde entegrasyonu
 
 ---
 
