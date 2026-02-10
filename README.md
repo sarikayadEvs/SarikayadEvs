@@ -18,10 +18,10 @@
 
 | Alan | Araçlar & Teknolojiler |
 | :--- | :--- |
+| **Networking (Cisco)** | ![Cisco](https://img.shields.io/badge/Cisco-0493D1?style=flat-square&logo=cisco&logoColor=white) ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0070AD?style=flat-square) ![Routing](https://img.shields.io/badge/Routing%20%26%20Switching-orange?style=flat-square) ![VLANs](https://img.shields.io/badge/VLANs%20%26%20Subnetting-gray?style=flat-square) |
 | **Cyber Security** | ![Forensics](https://img.shields.io/badge/Forensics-red?style=flat-square) ![Pwn](https://img.shields.io/badge/Pwn-black?style=flat-square) ![CTF](https://img.shields.io/badge/CTF-Focus-green?style=flat-square) |
-| **Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-0493D1?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-162EBB?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-blueviolet?style=flat-square) |
-| **Hardware** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) |
+| **Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Tools** | ![Wireshark](https://img.shields.io/badge/Wireshark-162EBB?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-blueviolet?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-orange?style=flat-square) |
 
 ---
 
