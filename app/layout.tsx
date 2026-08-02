@@ -14,20 +14,20 @@ const jetBrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://sarikayadevs.com"),
-  title: "Muhammed | sarikayadevs.com",
-  description: "Muhammed tarafından geliştirilen web siteleri, otomasyon araçları ve dijital ürünler.",
-  keywords: ["Muhammed", "sarikayadevs", "web geliştirme", "otomasyon", "full-stack developer", "Türkiye"],
+  title: "SarikayaDevs | Satış Odaklı Web Tasarım",
+  description: "Küçük ve orta ölçekli işletmeler için hızlı, güven veren, SEO uyumlu ve satış odaklı web siteleri geliştiriyoruz.",
+  keywords: ["SarikayaDevs", "web tasarım", "kurumsal web sitesi", "SEO uyumlu web sitesi", "KOBİ web sitesi", "Türkiye"],
   openGraph: {
-    title: "Muhammed | sarikayadevs.com",
-    description: "Web siteleri, otomasyon araçları ve dijital ürünler geliştiriyorum.",
+    title: "SarikayaDevs | Satış Odaklı Web Tasarım",
+    description: "KOBİ’ler için hızlı, güven veren, SEO uyumlu ve satış odaklı web siteleri geliştiriyoruz.",
     type: "website",
     locale: "tr_TR",
-    images: [{ url: "/og.png", width: 1536, height: 1024, alt: "Muhammed — sarikayadevs.com" }],
+    images: [{ url: "/og.png", width: 1536, height: 1024, alt: "SarikayaDevs — Satış odaklı web tasarım" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Muhammed | sarikayadevs.com",
-    description: "Web siteleri, otomasyon araçları ve dijital ürünler geliştiriyorum.",
+    title: "SarikayaDevs | Satış Odaklı Web Tasarım",
+    description: "KOBİ’ler için hızlı, güven veren, SEO uyumlu ve satış odaklı web siteleri geliştiriyoruz.",
     images: ["/og.png"],
   },
   icons: {
